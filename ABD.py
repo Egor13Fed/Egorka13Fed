@@ -6,7 +6,7 @@ def module(a):
         a = a * (-1)
     return a
 
-
+print('Hello')
 x = float(input('Введите x= '))
 sin1 = math.sin(x)
 sinus = sin1 / x
